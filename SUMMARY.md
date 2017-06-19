@@ -7,3 +7,6 @@
 ## Various
 
 * [Git](git.md)
+
+## Python
+* [Basics](python_basics.md)
