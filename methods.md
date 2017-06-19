@@ -5,13 +5,13 @@ Methods allow you to smoothly display code examples in different languages.
 {% method %}
 ## My first method
 
-My first method exposes how to print a message in JavaScript and Go.
+My first method exposes how to print a message in Python and Go.
 
-{% sample lang="js" %}
-Here is how to print a message to `stdout` using JavaScript.
+{% sample lang="py" %}
+Here is how to print a message to `stdout` using Python.
 
-```js
-console.log('My first method');
+```
+print("My first method");
 ```
 
 {% sample lang="go" %}
