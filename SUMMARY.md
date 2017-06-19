@@ -4,6 +4,6 @@
 
 * [My Awesome API](README.md)
 
-## Methods
+## Various
 
-* [Defining Methods](methods.md)
+* [Git](git.md)
