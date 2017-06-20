@@ -11,6 +11,7 @@
 - loss function
 - overfitting
 - bias-variance dilemma
+- feature importance
 
 ## What is learning?
 The first studies were made on animals. A mouse after eating something that got it sick, it will not eat it anymore.
