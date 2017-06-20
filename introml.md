@@ -1,5 +1,6 @@
 # Intro to Machine Learning
-keywords:
+<!-- toc -->
+## Keywords
 - statistical machine learning
 - pigeon superstition
 - no free lunch theorem
@@ -74,3 +75,36 @@ This is called the **bias-variance dilemma**:
 You can do nothing about noise, but you can balance bias and variance
 
 The challenge of machine learning is finding this compromise.
+
+## Examples of classifiers
+Usually for classification problems you don't need to invent anything, you just have to tune an algorithm
+
+- k-nearest neighbour
+    * you pick the k (odd number) closer to the point and predict the label of the point will be the most frequent among the points
+- linear discriminant analysis
+    * tries to draw an ellipse around the points of the same class, such that they are as small and as far apart as possible
+- support vector machine
+    * the support vectors are the points of different classes that are closer together
+    * then you draw the line that maximise the distance between the support vectors and the line
+- decision tree
+    * builds a tree of questions that allow you to find the class by travelling down the tree
+- gaussian mixture
+    * very similar to linear discriminant analysis
+- artificial neural network
+    * will talk about that later
+    
+### Iris dataset
+Used as sample for all algorithms
+
+50 samples from each of the 3 classes
+4 features for each sample
+
+## Model selection
+Tuning parameters and choosing the best model. Main methods:
+- k-fold cross validation: split the data into training and test data, so that we can test the model against unseen points
+    * minimise the overfitting
+    * dividing the data in n parts and always train on n-1 part, then test on the remaining one, do this n times
+- bagging/boosting: randomly choose a subset of points many times (with or without reusing the same points)
+
+## Feature importance
+Not all the features have the same importance, therefore we may select the most important features, this is done through feature selection and ranking
