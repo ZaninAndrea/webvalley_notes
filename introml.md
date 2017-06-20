@@ -9,6 +9,7 @@ keywords:
 - reinforcement, unsupervise, supervised learning
 - loss function
 - overfitting
+- bias-variance dilemma
 
 The first studies were made on animals. A mouse after eating something that got it sick, it will not eat it anymore.
 
@@ -61,3 +62,14 @@ Since you will never know all your points, but since you will never know every p
 
 **training error** is a biased estimate, because it works perfectly only on the training set, but may not work on any other subset of data.
 We phrase this as "minimizing the training error is prone to **overfitting**"
+
+I can solve this problem adding an **inductive bias**, that is restricting **H** (the space where I look for my function)
+
+This is called the **bias-variance dilemma**:
+- bias: the loss of the main prediction relative to the optimal prediction (depends on H), it's basically the complexity of the function
+- variance: the average loss of the predictions relative to the main prediction (depends on D)
+- noise: the remaining loss that cannot be eliminated (unpredictable)
+
+You can do nothing about noise, but you can balance bias and variance
+
+The challenge of machine learning is finding this compromise.
