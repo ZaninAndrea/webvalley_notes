@@ -13,6 +13,8 @@
 - bias-variance dilemma
 - feature importance
 
+[presentation](https://prezi.com/itoqkgwmn4al/an-introduction-to-machine-learning/)
+
 ## What is learning?
 The first studies were made on animals. A mouse after eating something that got it sick, it will not eat it anymore.
 
