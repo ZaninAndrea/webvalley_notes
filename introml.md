@@ -11,6 +11,7 @@ keywords:
 - overfitting
 - bias-variance dilemma
 
+## What is learning?
 The first studies were made on animals. A mouse after eating something that got it sick, it will not eat it anymore.
 
 Learning has to be integrated with _a priori knowledge_. 
