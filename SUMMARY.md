@@ -12,4 +12,6 @@
 * [Fruitipy](fruitipy.md)
 * numpy
 * [Deep Learning with Keras and TensorFlow - Part I](deep1.md)
+* Job to be done
 
+## Wednesday 21
