@@ -3,6 +3,7 @@
 ## Overview
 
 * [README](README.md)
+* Fruit maturity and quality
 
 ## Tuesday 20
 
@@ -17,3 +18,4 @@
 
 * [deep learning 2](wednesday-21/deep-learning-2.md)
 
+## Tuesday 22
