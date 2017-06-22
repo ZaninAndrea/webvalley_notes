@@ -20,4 +20,5 @@
 ## Tuesday 22
 
 * [Fruit maturity and quality](tuesday-22/fruit-maturity-and-quality.md)
+* [Biomedical](tuesday-22/biomedical.md)
 
