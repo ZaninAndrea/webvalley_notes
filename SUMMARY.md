@@ -17,8 +17,10 @@
 
 * [deep learning 2](wednesday-21/deep-learning-2.md)
 
-## Tuesday 22
+## thursday 22
 
 * [Fruit maturity and quality](tuesday-22/fruit-maturity-and-quality.md)
 * [Biomedical](tuesday-22/biomedical.md)
 
+## friday23
+* Imaging and ML
