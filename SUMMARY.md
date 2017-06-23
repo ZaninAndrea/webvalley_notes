@@ -23,4 +23,4 @@
 * [Biomedical](tuesday-22/biomedical.md)
 
 ## friday23
-* Imaging and ML
+
