@@ -22,5 +22,7 @@
 * [Fruit maturity and quality](tuesday-22/fruit-maturity-and-quality.md)
 * [Biomedical](tuesday-22/biomedical.md)
 
-## friday23
+## tuesday 27
+
+* [microsoft guys](tuesday-27/microsoft-guys.md)
 
