@@ -25,4 +25,5 @@
 ## tuesday 27
 
 * [microsoft guys](tuesday-27/microsoft-guys.md)
+* [damage estimation](tuesday-27/damage-estimation.md)
 
